@@ -11,7 +11,7 @@
 
 * **VK Testers** — бета-тестирование продуктов VK: 40 оформленных баг-репортов, 13 из них приняты и оплачены.
 * **CrowdTesting** — участие в краудтест-проектах мобильных приложений (NDA, репорты проходят валидацию QA-экспертов).
-* **Kwork** - Нужно протестировать своё Android-приложение? Отчёт с шагами воспроизведения, скриншотами и приоритетами за 48 часов — [kwork.ru — тестирование Android](https://kwork.ru/usability-testing/55058985/testirovanie-mobilnykh-prilozheniy-android-otchyot-za-48-chasov?ref=25399863);
+* **Kwork** — тестирование Android-приложений на заказ: отчёт с шагами воспроизведения, скриншотами и приоритетами за 48 часов —  [kwork.ru — тестирование Android](https://kwork.ru/usability-testing/55058985/testirovanie-mobilnykh-prilozheniy-android-otchyot-za-48-chasov?ref=25399863);
 
 ## 📁 Артефакты проекта и результаты тестирования
 
