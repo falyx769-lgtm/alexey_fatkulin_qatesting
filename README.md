@@ -29,7 +29,7 @@
 
 **Видео с демонстрацией:**
 
-https://github.com/user-attachments/assets/208155a8-6b21-4381-8812-28e27adefb52
+https://github.com/user-attachments/assets/3020095f-4fd6-46a8-bdda-429ffacb2b9f
 
 ## 📺 Пример кейса 2: обрезание контента в Flex-режиме (Samsung Galaxy Z Flip7)
 
@@ -39,7 +39,9 @@ https://github.com/user-attachments/assets/208155a8-6b21-4381-8812-28e27adefb52
 
 **Видео с демонстрацией:**
 
-https://github.com/user-attachments/assets/7aec46a4-ea07-4bb2-bce8-7749906edcc1
+https://github.com/user-attachments/assets/48ccd45d-f6c0-43f7-a93c-c10dee270388
+
+
 
 
 
